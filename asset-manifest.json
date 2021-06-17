@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/DesertWanderer/static/css/main.6a38f242.chunk.css",
+    "main.js": "/DesertWanderer/static/js/main.fe583d4b.chunk.js",
+    "main.js.map": "/DesertWanderer/static/js/main.fe583d4b.chunk.js.map",
+    "runtime-main.js": "/DesertWanderer/static/js/runtime-main.6fcb269d.js",
+    "runtime-main.js.map": "/DesertWanderer/static/js/runtime-main.6fcb269d.js.map",
+    "static/js/2.c42c0281.chunk.js": "/DesertWanderer/static/js/2.c42c0281.chunk.js",
+    "static/js/2.c42c0281.chunk.js.map": "/DesertWanderer/static/js/2.c42c0281.chunk.js.map",
+    "static/js/3.4625cebc.chunk.js": "/DesertWanderer/static/js/3.4625cebc.chunk.js",
+    "static/js/3.4625cebc.chunk.js.map": "/DesertWanderer/static/js/3.4625cebc.chunk.js.map",
+    "index.html": "/DesertWanderer/index.html",
+    "static/css/main.6a38f242.chunk.css.map": "/DesertWanderer/static/css/main.6a38f242.chunk.css.map",
+    "static/js/2.c42c0281.chunk.js.LICENSE.txt": "/DesertWanderer/static/js/2.c42c0281.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6fcb269d.js",
+    "static/js/2.c42c0281.chunk.js",
+    "static/css/main.6a38f242.chunk.css",
+    "static/js/main.fe583d4b.chunk.js"
+  ]
+}

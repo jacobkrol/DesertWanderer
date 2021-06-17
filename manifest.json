@@ -1,0 +1,15 @@
+{
+  "short_name": "Ørkenvandring",
+  "name": "Ørkenvandring - Desert Wanderer",
+  "icons": [
+    {
+      "src": "logo.svg",
+      "purpose": "maskable any",
+      "sizes": "any"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#DECC28",
+  "background_color": "#F2F2F2"
+}
